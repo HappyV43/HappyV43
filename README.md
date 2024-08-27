@@ -54,12 +54,9 @@ Just a random dude lmao ¯\_(ツ)_/¯<br>🌱 I’m currently learning about JS 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HappyV43&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HappyV43&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HappyV43&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyV43&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
